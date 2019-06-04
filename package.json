@@ -1,0 +1,28 @@
+{
+  "name": "app-smarttv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipefrodrigues/APP-SMARTTV.git"
+  },
+  "author": "Felipe Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipefrodrigues/APP-SMARTTV/issues"
+  },
+  "homepage": "https://github.com/felipefrodrigues/APP-SMARTTV#readme",
+  "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
+    "next": "^8.1.0",
+    "node-sass": "^4.12.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
